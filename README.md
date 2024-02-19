@@ -5,4 +5,4 @@
 
 ![Willian Zytkoski GitHub stats](https://github-readme-stats.vercel.app/api?username=WillianZyt&show_icons=true&theme=ocean_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=ocean_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillianZyt&layout=compact&theme=ocean_dark)
